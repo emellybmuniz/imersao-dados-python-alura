@@ -1,7 +1,8 @@
 # 📊 Dashboard de Análise de Salários na Área de Dados
 
 Um dashboard interativo construído com Python e Streamlit para explorar e analisar dados de salários no campo de Data Science, baseado em dados coletados nos últimos anos.
-![Prévia do Dashboard](./.github/assets/dashboard-screenshot.png)
+
+<img width="1685" height="855" alt="dashboard-screenshot" src="https://github.com/user-attachments/assets/95f96e8d-1bac-4d25-af93-2a301e586b9d" />
 
 ---
 
@@ -63,7 +64,8 @@ Este projeto apresenta um dashboard que permite a visualização e filtragem de 
 
 This project features a dashboard that allows users to visualize and filter salary information for data professionals. Users can interact with filters to refine their analysis and gain insights into compensation, considering factors like year, seniority level, contract type, and company size.
 
-![Dashboard Preview](./.github/assets/dashboard-screenshot.png)
+<img width="1685" height="855" alt="dashboard-screenshot" src="https://github.com/user-attachments/assets/2d2c2b9e-dcb9-40c6-b7d8-c07ef85767db" />
+
 
 ### ✨ Features
 
@@ -88,5 +90,6 @@ This project features a dashboard that allows users to visualize and filter sala
 - **Plotly:** For creating interactive charts.
 
 ### ⚙️ How to Run Locally
+
 
 Follow the same steps described in the Portuguese version above. The commands are universal.
