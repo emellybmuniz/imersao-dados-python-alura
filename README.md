@@ -36,7 +36,7 @@ Este projeto apresenta um dashboard que permite a visualização e filtragem de 
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/emellydev/imersao-dados-python-alura.git
+    git clone https://github.com/emellybmuniz/imersao-dados-python-alura.git
     cd imersao-dados-python-alura
     ```
 
@@ -93,7 +93,7 @@ This project features a dashboard that allows users to visualize and filter sala
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/emellydev/imersao-dados-python-alura.git
+    git clone https://github.com/emellybmuniz/imersao-dados-python-alura.git
     cd imersao-dados-python-alura
     ```
 
@@ -112,3 +112,4 @@ This project features a dashboard that allows users to visualize and filter sala
     ```bash
     streamlit run app.py
     
+
