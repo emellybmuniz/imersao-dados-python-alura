@@ -144,7 +144,7 @@ $ pip install -r requirements.txt
 $ streamlit run app.py
 ```
 
-**Alternative:** Access [https://emellybmuniz.github.io/imersao-dados-python-alura/)](https://emellybmuniz.github.io/imersao-dados-python-alura/)
+**Alternative:** Access [https://imersao-dados-python-alura-emellybmuniz.streamlit.app/](https://imersao-dados-python-alura-emellybmuniz.streamlit.app/)
 
 ## 💡 How to Use
 
@@ -275,3 +275,4 @@ Developed by **Emelly Beatriz** with ❤️
 ---
 
 ⭐ **Liked the project?** Leave a star on the repository to support development!
+
